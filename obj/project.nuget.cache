@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "am3HomccRnvvMs2dwJ3siXgfPH7vjyZu1RZMFqTgqcEWwvG+VWRkzBUwGsHUkwycuo6aihNPRRB0gkCjraF6hA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucap\\OneDrive\\ETC\\Dokumente\\GitHub\\ws_private_luca\\Visual Studio\\Leitstellenspiel App\\Leitstellenspiel App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucap\\.nuget\\packages\\microsoft.web.webview2\\1.0.1823.32\\microsoft.web.webview2.1.0.1823.32.nupkg.sha512"
+  ],
+  "logs": []
+}

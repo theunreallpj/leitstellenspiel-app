@@ -1,0 +1,29 @@
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\bin\Debug\net6.0-windows\Leitstellenspiel App.exe
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\bin\Debug\net6.0-windows\Leitstellenspiel App.deps.json
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\bin\Debug\net6.0-windows\Leitstellenspiel App.runtimeconfig.json
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\bin\Debug\net6.0-windows\Leitstellenspiel App.dll
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\bin\Debug\net6.0-windows\Leitstellenspiel App.pdb
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\Leitstellenspiel App.csproj.AssemblyReference.cache
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\Leitstellenspiel App_Content.g.cs
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\Leitstellenspiel App_MarkupCompile.cache
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\Leitstellenspiel App_MarkupCompile.lref
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\Leitstellenspiel App.g.resources
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\Leitstellenspiel App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\Leitstellenspiel App.AssemblyInfoInputs.cache
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\Leitstellenspiel App.AssemblyInfo.cs
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\Leitstellenspiel App.csproj.CoreCompileInputs.cache
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\Leitstellenspiel App.csproj.CopyComplete
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\Leitstellenspiel App.dll
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\refint\Leitstellenspiel App.dll
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\Leitstellenspiel App.pdb
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\Leitstellenspiel App.genruntimeconfig.cache
+C:\Users\lucap\OneDrive\ETC\Dokumente\GitHub\ws_private_luca\Visual Studio\Leitstellenspiel App\obj\Debug\net6.0-windows\ref\Leitstellenspiel App.dll
